@@ -1,3 +1,11 @@
 a {
-  color:Peachpuff
+  color: "Peachpuff"
+}
+
+button{
+  padding: 10px 20px;
+  background: white;
+  color: black;
+  border: none;
+  font-size: 16px;
 }
