@@ -1,3 +1,3 @@
 function displayMessage(){
- alert("hey there")
+ alert("hey there");
 }
